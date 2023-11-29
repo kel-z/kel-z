@@ -1,7 +1,7 @@
 ---
 ###### tl;dr
 - Computer Science @ UBC 🇨🇦
-- Open-source is cool
+- Open-source apps are cool
 - Beat Saber is fun
 ---
 <https://kelvin.zhao.io/>
