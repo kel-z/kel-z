@@ -1,7 +1,5 @@
-### kel-z 🇨🇦 
----
-#### tl;dr
-- Computer Science @ UBC
+###### tl;dr
+- Computer Science @ UBC 🇨🇦
 - Open-source is cool
 - Beat Saber is fun
 
